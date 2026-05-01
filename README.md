@@ -10,4 +10,4 @@ The original Figma design, **"Remind Me - Landing Page"**, was created by [Naufa
 
 This code implementation is based on that design and was created by me **[Ahmed Wael]**.
 
-> Demo Link : [Remind Me](https://ahmedwaelhub.github.io/Remind-Me/)
+> Demo Link : [Remind Me](https://ahmedwaelspace.github.io/RemindMe/)
